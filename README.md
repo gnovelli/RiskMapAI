@@ -5,6 +5,8 @@ This repository contains a prototype Streamlit application for exploring open ge
 ## Setup
 Follow `AGENTS.md` for quick setup instructions. Create a Python virtual environment and install dependencies from `requirements.txt`.
 
+Copy `.env.example` to `.env` and replace the placeholders with your own API keys. At minimum you should set `OPENAI_API_KEY`.
+
 ## Usage
 Launch the application with Streamlit:
 
