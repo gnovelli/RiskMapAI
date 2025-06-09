@@ -18,5 +18,9 @@ The app expects geospatial datasets in the `data/` directory. Download open data
 
 > Verificare la licenza dei dataset e includere i credit nel README o in una sezione dedicata.
 
+
+## Testing
+Run `pytest` to execute the test suite.
+
 ## License
 This project is licensed under the MIT License.
